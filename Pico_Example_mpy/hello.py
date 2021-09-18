@@ -60,4 +60,4 @@ def main():
             print("joyUp press")
             tft.fill(gc9a01.MAGENTA)
     
- main() 
+main() 
